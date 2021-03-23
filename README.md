@@ -40,6 +40,7 @@ Fixed:
 
 ToDo:
 * finish design of UI, teathering files and associated code
+* adjust file structure
 * finish function descriptions throughout code
 * multiple pens to save file
 * delete pens from save file

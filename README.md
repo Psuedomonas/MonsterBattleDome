@@ -1,11 +1,15 @@
-# MonsterDome-Console
+# Monster Battle Dome
 A simple monster dueling game
 
 using python 3.8
 
-By Nicholas Zehm 2013-1-8
+By Nicholas Zehm (2013-1-8 original prototype)
 
-filename: MonsterDomeConsole.py
+Version 0.1.5 - Unstable
+Experimental version
+
+Changes
+* GUI.py, MenuOptions.py for Tk interface
 
 Version 0.1.4 (2021-3-19)
 Stable Version
@@ -35,6 +39,7 @@ Fixed:
 * minor UI output stuff
 
 ToDo:
+* finish design of UI, teathering files and associated code
 * finish function descriptions throughout code
 * multiple pens to save file
 * delete pens from save file

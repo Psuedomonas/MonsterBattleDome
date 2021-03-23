@@ -51,8 +51,3 @@ ToDo:
 * user interaction for attacks/defense
 * leveling
 * other monster attributes
-* start thinking about a UI
-
-Other options
-* add partial interface for save/load pen
-* Add full interface... (like the unstable tk version)
